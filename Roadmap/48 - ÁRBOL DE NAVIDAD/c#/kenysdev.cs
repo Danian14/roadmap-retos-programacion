@@ -135,7 +135,7 @@ class ChristmasTree
     {
         if (_balls.Count == 0)
         {
-            Console.WriteLine("No hay bolas que eliminar.");
+            Console.WriteLine("No hay bolas que eliminar. tesde ");
             return;
         }
 
